@@ -1,6 +1,6 @@
 import java.util.*;
 
-class File
+class F3
 {
 	public static void main(String args[])
 	{
